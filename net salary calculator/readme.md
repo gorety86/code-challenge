@@ -1,8 +1,8 @@
 # Code-Challenge
 
 
-# Net Salary Calculation
-    - Understand how to use function to calculate students marks and grade them in accodance to their marks.
+# Net Salary
+    - Understand how to use function to calculate net salary of employees, considering deductions and allowences.
 
 ## Introduction
 
@@ -10,10 +10,10 @@ This challenge describes some more advanced concepts related to JavaScript funct
 Be sure to take time to experiment or read up on a concept if you're not
 comfortable with the idea before moving on. If you're struggling here, the
 remainder of this module will be challenging. Fix any gaps now before moving on.
-Implement the various condition 'if, else if' and variable 'studentMaks'.
+Implement the various condition 'if, else if' and variables.
 
 **Challenge**:
-    - var  net salary = parseInt()
+    - var  studentMarks = parseInt()
 
 ## Resources
 
